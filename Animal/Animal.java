@@ -1,4 +1,4 @@
-package Animal;
+package Animal; //TODO package names should be lowercase
 
 public class Animal {
     private int numberOfLegs;

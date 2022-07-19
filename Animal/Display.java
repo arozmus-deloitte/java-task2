@@ -23,6 +23,7 @@ public class Display
         System.out.println("Name: " + container.getValue().getName());
     }
 
+    //TODO well done ;)
     public static void main(String[] args) {
         Animal animal = new Animal(4);
         Mammal mammal = new Mammal(4,"Black");
