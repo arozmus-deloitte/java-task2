@@ -40,9 +40,9 @@ public class Display
         displayMammal(containerMammal);
         displayMammal(containerCat);
 
-
         //displayCat(containerAnimal); <- This doesn't work
         //displayCat(containerMammal); <- This doesn't work
         displayCat(containerCat);
+
     }
 }
